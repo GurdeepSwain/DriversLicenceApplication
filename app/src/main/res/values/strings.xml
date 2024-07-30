@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Driver\'s Licence Application</string>
     <string-array name="spinner_options_array">
-        <item>Employed</item>
-        <item>Business Owner</item>
         <item>Student</item>
+        <item>Teacher</item>
+        <item>Engineer</item>
+        <item>Doctor</item>
+        <item>Other</item>
     </string-array>
 </resources>
